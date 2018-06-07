@@ -1,0 +1,3 @@
+﻿{
+  "ApiDbConnectionString": "Server=(localdb)\\mssqllocaldb;Database=ModernApiApp.Database;Trusted_Connection=True;"
+}

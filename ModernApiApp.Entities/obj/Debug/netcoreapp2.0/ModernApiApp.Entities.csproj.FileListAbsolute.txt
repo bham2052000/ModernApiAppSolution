@@ -1,0 +1,54 @@
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.deps.json
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.AssemblyInfo.cs
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Entities\obj\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb

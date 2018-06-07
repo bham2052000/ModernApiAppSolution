@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "administratorLogin": {
+            "value": "devopsadmin"
+        },
+        "administratorLoginPassword": {
+            "value": null
+        },
+        "collation": {
+            "value": "SQL_Latin1_General_CP1_CI_AS"
+        },
+        "databaseName": {
+            "value": "devopsworkshopapidb"
+        },
+        "edition": {
+            "value": "Standard"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "maxSizeBytes": {
+            "value": "268435456000"
+        },
+        "requestedServiceObjectiveId": {
+            "value": "789681b8-ca10-4eb0-bdf2-e0b050601b40"
+        },
+        "sampleName": {
+            "value": ""
+        },
+        "serverName": {
+            "value": "devopsworkshopdbserver"
+        },
+        "zoneRedundant": {
+            "value": false
+        }
+    }
+}

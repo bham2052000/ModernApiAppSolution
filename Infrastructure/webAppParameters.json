@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "devopsworkshopapi"
+        },
+        "hostingPlanName": {
+            "value": "devopsworkshopserviceplan"
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "location": {
+            "value": "East US"
+        },
+        "sku": {
+            "value": "Standard"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "serverFarmResourceGroup": {
+            "value": "devopsworkshopapiresourcegroup"
+        },
+        "skuCode": {
+            "value": "S1"
+        },
+        "subscriptionId": {
+            "value": "bf2d32f2-f2ea-468e-ad8a-a3d7bcc5e5ed"
+        },
+        "ApiAppDatabaseServer": {
+            "value": "devopsworkshopdbserver.database.windows.net"
+        },
+        "ApiAppDatabaseName": {
+            "value": "devopsworkshopdb"
+        },
+        "ApiAppDatabaseUser": {
+            "value": "devopsadmin"
+        },
+        "ApiAppDatabasePassword": {
+            "value": null
+        }
+    }
+}

@@ -1,0 +1,120 @@
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ApiApp\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Ilias\source\repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Code\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+c:\Repos\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Tim Moore\Desktop\WorkshopPLUS_DevOps_Fundamentals\Labs - Copy\Lab 03\Source\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.deps.json
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.json
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.runtimeconfig.dev.json
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.DataAccess.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.Entities.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\bin\Debug\netcoreapp2.0\ModernApiApp.pdb
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.AssemblyInfo.cs
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.dll
+C:\Users\Tim Moore\Desktop\Fast Start - Azure for Dev Ops\Labs\Assets\ModernApiAppSolution\ModernApiApp.Tests\obj\Debug\netcoreapp2.0\ModernApiApp.Tests.pdb
